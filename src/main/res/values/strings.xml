@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">AnySoftKeyboard - German Language Pack (slim)</string>
+    <string name="de_keyboard">German</string>
+    <string name="german_dictionary">german</string>
+  <string name="dictionary_name">german</string>
+  <string name="keyboard_name">German Keyboard</string>
+  <string name="store_title">German Language Pack (slim)</string>
+  <string name="store_promo">German language pack (slim) for AnySoftKeyboard</string>
+  <string name="store_description">AnySoftKeyboard keyboards pack:
+    German keyboard and dictionary. Slim version.
+
+This is a modified version of the german language pack of AnySoftKeyboard. No extra keys for ü,ä,ö.
+Install AnySoftKeyboard first, and then select the desired layout from AnySoftKeyboard\'s Settings->Keyboards menu.</string>
+</resources>
