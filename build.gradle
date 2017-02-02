@@ -25,8 +25,8 @@ android {
         applicationId "com.anysoftkeyboard.languagepack.germanSlim"
         minSdkVersion 7
         targetSdkVersion 25
-        versionCode 100
-        versionName "v2.0.1"
+        versionCode 101
+        versionName "v1.0.1"
     }
 
     signingConfigs {
